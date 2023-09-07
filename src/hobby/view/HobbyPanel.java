@@ -1,5 +1,6 @@
 package hobby.view;
 
-public class HobbyPanel {
+public class HobbyPanel 
+{
 
 }
