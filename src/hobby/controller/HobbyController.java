@@ -1,9 +1,9 @@
 package hobby.controller;
 
-public class Controller 
+public class HobbyController 
 {
 
-	public Controller()
+	public HobbyController()
 	{
 		
 	}

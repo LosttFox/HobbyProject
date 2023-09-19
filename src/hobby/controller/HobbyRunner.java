@@ -1,10 +1,10 @@
 package hobby.controller;
 
-public class Runner 
+public class HobbyRunner 
 {
 	public static void main (String [] args)
 	{
-		Controller app = new Controller();
+		HobbyController app = new HobbyController();
 		app.start();
 	}
 }
